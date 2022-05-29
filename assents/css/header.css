@@ -56,7 +56,7 @@ header{
     white-space: nowrap;
     width: 25ch;
     animation: typing 2s steps(25), blink .5s infinite step-end alternate;
-    animation-delay: 2.8s;
+    animation-delay: 2s;
     overflow: hidden;
 }
 
