@@ -67,6 +67,10 @@
     margin-top: -88px;
 }
 
+.contactme_redes img:hover{
+    transform: scale(1.2);
+}
+
 @media screen and (min-width: 1024px) {
     .contactme_container{
         flex-direction: row;
