@@ -105,11 +105,10 @@
     }
 
     #contactme_items_2 img{
-        position: relative;
         width: 319px;
         height: 340px;
-        top: 80px;
-        right: 150px;
+        margin-left: -150px;
+        margin-top: 10px;
      }
 
      #contactme_items_1{
@@ -158,11 +157,10 @@
     }
 
     #contactme_items_2 img{
-        position: relative;
         width: 319px;
         height: 340px;
-        top: 80px;
-        right: 300px;
+        margin-top: 40px;
+        margin-left: -500px;
      }
 
      #contactme_items_1{
