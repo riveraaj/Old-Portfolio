@@ -1,4 +1,4 @@
-# Jonathan Rivera | Protafolio
+# Jonathan Rivera | Portfolio
 
 HTML - CSS - Portfolio (Own creation)
 
